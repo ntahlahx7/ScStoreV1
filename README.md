@@ -1,6 +1,6 @@
 # ScStoreV1
 
-Script Bot Whatssapp
+SCSTOREV1 BY ABIL BOTZ
 
 ## FOR TERMUX USER
 
@@ -51,5 +51,5 @@ npm start
 
 ## Thanks To
 
-Botz Dhani?
+Botz Dhani?,
 ABIL BOTZ
